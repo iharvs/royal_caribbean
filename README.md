@@ -13,6 +13,7 @@
 | **User** | admin |
 | **Email** | admin@example.com |
 | **Password** | admin |
+| **Admin Link** | http://127.0.0.1:8000/admin |
 
 | Get List (Endpoint) | |
 | ------------- | ------------- |
